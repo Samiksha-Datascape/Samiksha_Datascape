@@ -17,12 +17,18 @@ I'm a data enthusiast from **Pune, India**, passionate about digging into data a
 
 ## 📁 Projects
 
-### 🔍 [Project Name — EDA with Python](https://github.com/Samiksha-Datascape/your-repo-name)
-Exploratory data analysis on [dataset name / topic — e.g. "e-commerce sales data"].
+### 🔍 [Project Name — EDA with Python](https://github.com/Samiksha-Datascape/quantium-customer-analysis
+)
+Exploratory data analysis on Customer Purchasing Behavior Analysis
 - Cleaned and preprocessed raw data using Pandas
 - Identified key trends and patterns through statistical analysis
 - Visualized findings with Matplotlib and Seaborn
-- Key insight: [one line about what you found — e.g. "Revenue drops 40% on weekends in Q3"]
+- Key insight:
+Older Families and Young Families contribute the highest sales and spending.
+These segments spend more and purchase higher quantities.
+Sales are driven by bulk purchasing behavior.
+Larger pack sizes (175g, 150g) dominate sales.
+Top brands: Kettle, Smiths, Doritos.
 
 > *More projects coming soon — SQL queries, Power BI dashboards & Excel models.*
 
